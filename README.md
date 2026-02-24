@@ -1,4 +1,4 @@
-![logo]https://github.com/Abhinav00020/Abhinav00020/blob/main/header_gif.gif?raw=true
+![logo](https://github.com/Abhinav00020/Abhinav00020/blob/main/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
